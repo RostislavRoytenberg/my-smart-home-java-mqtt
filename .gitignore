@@ -12,3 +12,4 @@ mqtt.properties
 .idea/
 build/
 .gradle/
+/bin/
